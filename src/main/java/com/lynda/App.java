@@ -3,7 +3,7 @@ package com.lynda;
 
 public class App {
 	public static void main(String[] args){
-		
+		int a = 0;
 		System.out.println(sum(10,5));
 		System.out.println(subtraction(10,5));
 		System.out.println(division(10,5));
